@@ -3,8 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Frontend in Action" width="40%"/>
-
-# السلام عليكم، أنا **عبدالرحمن فتحي** 👋  
+   👋 عبدالرحمن فتحي | Abdo Fathy
 ### **Frontend Developer** | React & Modern Web Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmanfathy&style=flat&color=brightgreen)

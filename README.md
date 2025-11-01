@@ -1,58 +1,37 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 
-## 👋 Hi, I'm Abdulrahman Fathy  
-### Front-End Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Frontend in Action" width="40%"/>
 
-Building modern, responsive web apps using React and clean UI principles.
+# السلام عليكم، أنا **عبدالرحمن فتحي** 👋  
+### **Frontend Developer** | React & Modern Web Enthusiast
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmanfathy&style=flat&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/abdulrahmanfathy?style=social)
 
----
-
-## 🧑‍💻 About Me
-
-I’m a Front-End Developer focusing on building modern responsive web applications using React and clean UI principles.
-
----
-
-## 🚀 Tech Stack
-
-| Category | Technologies |
-|---------|--------------|
-| Languages | HTML5, CSS3, JavaScript (ES6+) |
-| Frameworks & Libraries | React.js, Redux Toolkit |
-| Styling | Bootstrap, Tailwind CSS |
-| Tools | Git, GitHub, Figma, Vite |
-
----
-
-## 📫 Contact
-
-- **LinkedIn**: [Click Here](https://www.linkedin.com/in/abdo-fathy-43288b251/)
-- **GitHub**: [Click Here](https://github.com/AbdoFathy6)
-- **Gmail**: abdofathy531@gmail.com
-- **Telegram**: [Click Here](https://t.me/abdofathy24)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/AbdoFathy6">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdoFathy6&show_icons=true&theme=default" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoFathy6&theme=default" width="48%" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman_Fathy-blue)](https://linkedin.com/in/abdulrahmanfathy)
+[![Telegram](https://img.shields.io/badge/Telegram-@abdulrahmanfathy-2CA5E0?logo=telegram)](https://t.me/abdulrahmanfathy)
+[![Email](https://img.shields.io/badge/Email-abdulrahman%40example.com-D14836?logo=gmail)](mailto:abdulrahman@example.com)
 
 </div>
 
 ---
 
-## ✅ Reference Sources
+## 🚀 **التقنيات اللي بحب أشتغل بيها**
 
-- GitHub Official Docs – “About your profile README”  
-  https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile-readme
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-- GitHub Markdown Guide  
-  https://guides.github.com/features/mastering-markdown/
+```tsx
+// Frontend Philosophy
+const build = () => {
+  return cleanCode() + smoothUX() + pixelPerfectDesign();
+};
